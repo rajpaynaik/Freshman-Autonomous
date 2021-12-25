@@ -1,0 +1,1946 @@
+[
+  {
+    "seconds": 1,
+    "RobotX": 777,
+    "RobotY": 227,
+    "distance": 101.4642794,
+    "Slope": 0.342592593,
+    "tangent_angle": 0.423913462,
+    "angle": 22.97274165
+  },
+  {
+    "seconds": 2,
+    "RobotX": 885,
+    "RobotY": 264,
+    "distance": 81.43095235,
+    "Slope": 0.89673913,
+    "tangent_angle": 0.088502895,
+    "angle": 5.057664663
+  },
+  {
+    "seconds": 3,
+    "RobotX": 701,
+    "RobotY": 99,
+    "distance": 21.72556098,
+    "Slope": 1.070175439,
+    "tangent_angle": -5.862141358,
+    "angle": -80.31931843
+  },
+  {
+    "seconds": 4,
+    "RobotX": 758,
+    "RobotY": 160,
+    "distance": 63.94528911,
+    "Slope": -0.658823529,
+    "tangent_angle": 0.182209189,
+    "angle": 10.32653112
+  },
+  {
+    "seconds": 5,
+    "RobotX": 843,
+    "RobotY": 104,
+    "distance": 85.06468127,
+    "Slope": -0.425531915,
+    "tangent_angle": -0.790836653,
+    "angle": -38.33823942
+  },
+  {
+    "seconds": 6,
+    "RobotX": 749,
+    "RobotY": 144,
+    "distance": 36.87817783,
+    "Slope": -1.833333333,
+    "tangent_angle": -0.399317406,
+    "angle": -21.76768625
+  },
+  {
+    "seconds": 7,
+    "RobotX": 725,
+    "RobotY": 188,
+    "distance": 49.63869458,
+    "Slope": -8.333333333,
+    "tangent_angle": -0.67431694,
+    "angle": -33.99245511
+  },
+  {
+    "seconds": 8,
+    "RobotX": 731,
+    "RobotY": 138,
+    "distance": 33.48133809,
+    "Slope": 1.95,
+    "tangent_angle": -1.089116517,
+    "angle": -47.44261466
+  },
+  {
+    "seconds": 9,
+    "RobotX": 751,
+    "RobotY": 177,
+    "distance": 122.0819397,
+    "Slope": 0.275590551,
+    "tangent_angle": -0.489550003,
+    "angle": -26.08405932
+  },
+  {
+    "seconds": 10,
+    "RobotX": 624,
+    "RobotY": 142,
+    "distance": 119.8123533,
+    "Slope": -0.18852459,
+    "tangent_angle": -72.67195767,
+    "angle": -89.21163313
+  },
+  {
+    "seconds": 11,
+    "RobotX": 502,
+    "RobotY": 165,
+    "distance": 107.3312629,
+    "Slope": 5.736842105,
+    "tangent_angle": 0.08105864,
+    "angle": 4.634186064
+  },
+  {
+    "seconds": 12,
+    "RobotX": 521,
+    "RobotY": 274,
+    "distance": 86.63140308,
+    "Slope": 10.875,
+    "tangent_angle": -0.557199772,
+    "angle": -29.12654197
+  },
+  {
+    "seconds": 13,
+    "RobotX": 513,
+    "RobotY": 187,
+    "distance": 27.71281292,
+    "Slope": 1.461538462,
+    "tangent_angle": 1.828042328,
+    "angle": 61.31987279
+  },
+  {
+    "seconds": 14,
+    "RobotX": 487,
+    "RobotY": 149,
+    "distance": 52.53570215,
+    "Slope": -1.967741935,
+    "tangent_angle": 0.088646967,
+    "angle": 5.065855144
+  },
+  {
+    "seconds": 15,
+    "RobotX": 456,
+    "RobotY": 210,
+    "distance": 31.22498999,
+    "Slope": -1.6,
+    "tangent_angle": -78.5,
+    "angle": -89.27015694
+  },
+  {
+    "seconds": 16,
+    "RobotX": 481,
+    "RobotY": 170,
+    "distance": 10.72380529,
+    "Slope": 0.642857143,
+    "tangent_angle": -0.070440252,
+    "angle": -4.029273729
+  },
+  {
+    "seconds": 17,
+    "RobotX": 495,
+    "RobotY": 179,
+    "distance": 70.28513356,
+    "Slope": 0.547619048,
+    "tangent_angle": -0.057975657,
+    "angle": -3.318046252
+  },
+  {
+    "seconds": 18,
+    "RobotX": 411,
+    "RobotY": 133,
+    "distance": 51.93264869,
+    "Slope": 0.474576271,
+    "tangent_angle": 1.341708543,
+    "angle": 53.30216123
+  },
+  {
+    "seconds": 19,
+    "RobotX": 470,
+    "RobotY": 161,
+    "distance": 73.48469228,
+    "Slope": 5,
+    "tangent_angle": -0.37628866,
+    "angle": -20.62074963
+  },
+  {
+    "seconds": 20,
+    "RobotX": 485,
+    "RobotY": 236,
+    "distance": 53.96295025,
+    "Slope": 1.604651163,
+    "tangent_angle": 1.855305466,
+    "angle": 61.6755634
+  },
+  {
+    "seconds": 21,
+    "RobotX": 528,
+    "RobotY": 305,
+    "distance": 34.46737588,
+    "Slope": -1.75,
+    "tangent_angle": 26.38709677,
+    "angle": 87.82968266
+  },
+  {
+    "seconds": 22,
+    "RobotX": 504,
+    "RobotY": 347,
+    "distance": 76.75285011,
+    "Slope": 0.522222222,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 23,
+    "RobotX": 594,
+    "RobotY": 394,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 24,
+    "RobotX": 594,
+    "RobotY": 394,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 25,
+    "RobotX": 594,
+    "RobotY": 394,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 26,
+    "RobotX": 594,
+    "RobotY": 394,
+    "distance": 88.40248865,
+    "Slope": -0.944029851,
+    "tangent_angle": -1.215240124,
+    "angle": -50.54962876
+  },
+  {
+    "seconds": 27,
+    "RobotX": 862,
+    "RobotY": 141,
+    "distance": 43.89760814,
+    "Slope": 14.66666667,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 28,
+    "RobotX": 859,
+    "RobotY": 97,
+    "distance": 32,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 29,
+    "RobotX": 859,
+    "RobotY": 65,
+    "distance": 356.2934184,
+    "Slope": -0.239782016,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 30,
+    "RobotX": 492,
+    "RobotY": 153,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 31,
+    "RobotX": 492,
+    "RobotY": 153,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 32,
+    "RobotX": 492,
+    "RobotY": 153,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 33,
+    "RobotX": 492,
+    "RobotY": 153,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 34,
+    "RobotX": 492,
+    "RobotY": 153,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 35,
+    "RobotX": 492,
+    "RobotY": 153,
+    "distance": 1123.605358,
+    "Slope": -0.049777778,
+    "tangent_angle": -0.971819626,
+    "angle": -44.1812098
+  },
+  {
+    "seconds": 36,
+    "RobotX": 1617,
+    "RobotY": 97,
+    "distance": 26.55183609,
+    "Slope": -1.073529412,
+    "tangent_angle": -0.698821617,
+    "angle": -34.94668212
+  },
+  {
+    "seconds": 37,
+    "RobotX": 1685,
+    "RobotY": 24,
+    "distance": 147.5127113,
+    "Slope": -7.095238095,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 38,
+    "RobotX": 1664,
+    "RobotY": 173,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 39,
+    "RobotX": 1664,
+    "RobotY": 173,
+    "distance": 49.44694126,
+    "Slope": 1.202702703,
+    "tangent_angle": 2817.857143,
+    "angle": 89.9796669
+  },
+  {
+    "seconds": 40,
+    "RobotX": 1590,
+    "RobotY": 84,
+    "distance": 72.6636085,
+    "Slope": -0.832061069,
+    "tangent_angle": -0.651183971,
+    "angle": -33.07153001
+  },
+  {
+    "seconds": 41,
+    "RobotX": 1459,
+    "RobotY": 193,
+    "distance": 181.6590212,
+    "Slope": -3.237288136,
+    "tangent_angle": -3.119617225,
+    "angle": -72.22663585
+  },
+  {
+    "seconds": 42,
+    "RobotX": 1518,
+    "RobotY": 2,
+    "distance": 104.4605189,
+    "Slope": 0.698630137,
+    "tangent_angle": -0.043103448,
+    "angle": -2.468117914
+  },
+  {
+    "seconds": 43,
+    "RobotX": 1664,
+    "RobotY": 104,
+    "distance": 84.85281374,
+    "Slope": 0.636363636,
+    "tangent_angle": -12,
+    "angle": -85.23635831
+  },
+  {
+    "seconds": 44,
+    "RobotX": 1774,
+    "RobotY": 174,
+    "distance": 16.24807681,
+    "Slope": -1.315789474,
+    "tangent_angle": -1.277637557,
+    "angle": -51.94990563
+  },
+  {
+    "seconds": 45,
+    "RobotX": 1793,
+    "RobotY": 149,
+    "distance": 95.52486587,
+    "Slope": 3.807692308,
+    "tangent_angle": -0.048659551,
+    "angle": -2.785789618
+  },
+  {
+    "seconds": 46,
+    "RobotX": 1767,
+    "RobotY": 50,
+    "distance": 210.6751053,
+    "Slope": 3.171428571,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 47,
+    "RobotX": 1837,
+    "RobotY": 272,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 48,
+    "RobotX": 1837,
+    "RobotY": 272,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 49,
+    "RobotX": 1837,
+    "RobotY": 272,
+    "distance": 1255.892113,
+    "Slope": 0.163393559,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 75,
+    "RobotX": 564,
+    "RobotY": 64,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 76,
+    "RobotX": 564,
+    "RobotY": 64,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 77,
+    "RobotX": 564,
+    "RobotY": 64,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 78,
+    "RobotX": 564,
+    "RobotY": 64,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 79,
+    "RobotX": 564,
+    "RobotY": 64,
+    "distance": 91.34549797,
+    "Slope": 1.207407407,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 80,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 81,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 82,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 83,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 84,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 85,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 86,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 87,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 88,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 89,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 90,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 91,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 92,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 93,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 94,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 95,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 96,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 97,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 98,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 99,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 100,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 101,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 102,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 103,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 104,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 105,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 106,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 107,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 108,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 109,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 110,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 111,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 112,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 113,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 114,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 115,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 116,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 117,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 118,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 119,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 120,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 121,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 122,
+    "RobotX": 699,
+    "RobotY": 227,
+    "distance": 36.33180425,
+    "Slope": -0.85915493,
+    "tangent_angle": 2.23055282,
+    "angle": 65.85238312
+  },
+  {
+    "seconds": 123,
+    "RobotX": 770,
+    "RobotY": 166,
+    "distance": 148.2666517,
+    "Slope": 0.470238095,
+    "tangent_angle": -0.287167589,
+    "angle": -16.02235006
+  },
+  {
+    "seconds": 124,
+    "RobotX": 602,
+    "RobotY": 87,
+    "distance": 489.5058733,
+    "Slope": 0.161290323,
+    "tangent_angle": 0.107209185,
+    "angle": 6.119260689
+  },
+  {
+    "seconds": 125,
+    "RobotX": 106,
+    "RobotY": 7,
+    "distance": 352.0738559,
+    "Slope": 0.273224044,
+    "tangent_angle": -0.05059389,
+    "angle": -2.896346775
+  },
+  {
+    "seconds": 126,
+    "RobotX": 472,
+    "RobotY": 107,
+    "distance": 288.7749989,
+    "Slope": 0.219594595,
+    "tangent_angle": -0.607766602,
+    "angle": -31.2898368
+  },
+  {
+    "seconds": 127,
+    "RobotX": 176,
+    "RobotY": 42,
+    "distance": 68.5857128,
+    "Slope": -0.342465753,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 128,
+    "RobotX": 249,
+    "RobotY": 17,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 129,
+    "RobotX": 249,
+    "RobotY": 17,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 130,
+    "RobotX": 249,
+    "RobotY": 17,
+    "distance": 1552.803916,
+    "Slope": 0.124600639,
+    "tangent_angle": -0.00043489,
+    "angle": -0.024917343
+  },
+  {
+    "seconds": 131,
+    "RobotX": 1814,
+    "RobotY": 212,
+    "distance": 1622.348914,
+    "Slope": 0.124159021,
+    "tangent_angle": -0.137105565,
+    "angle": -7.80689519
+  },
+  {
+    "seconds": 132,
+    "RobotX": 179,
+    "RobotY": 9,
+    "distance": 706.9427134,
+    "Slope": -0.012729844,
+    "tangent_angle": -0.003142536,
+    "angle": -0.180053484
+  },
+  {
+    "seconds": 133,
+    "RobotX": 886,
+    "RobotY": 0,
+    "distance": 62.99206299,
+    "Slope": -0.015873016,
+    "tangent_angle": 0.003824092,
+    "angle": 0.219103251
+  },
+  {
+    "seconds": 134,
+    "RobotX": 823,
+    "RobotY": 1,
+    "distance": 82.99397568,
+    "Slope": -0.012048193,
+    "tangent_angle": 0.012048193,
+    "angle": 0.690277198
+  },
+  {
+    "seconds": 135,
+    "RobotX": 906,
+    "RobotY": 0,
+    "distance": 13,
+    "Slope": 0,
+    "tangent_angle": -0.017663043,
+    "angle": -1.01191262
+  },
+  {
+    "seconds": 136,
+    "RobotX": 919,
+    "RobotY": 0,
+    "distance": 735.8851813,
+    "Slope": -0.017663043,
+    "tangent_angle": 0.006240465,
+    "angle": 0.357547652
+  },
+  {
+    "seconds": 137,
+    "RobotX": 183,
+    "RobotY": 13,
+    "distance": 787.9486024,
+    "Slope": -0.01142132,
+    "tangent_angle": -1.400412573,
+    "angle": -54.47030669
+  },
+  {
+    "seconds": 138,
+    "RobotX": 971,
+    "RobotY": 4,
+    "distance": 118.3215957,
+    "Slope": -1.434782609,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 139,
+    "RobotX": 856,
+    "RobotY": 169,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 140,
+    "RobotX": 856,
+    "RobotY": 169,
+    "distance": 213.2979137,
+    "Slope": -0.125581395,
+    "tangent_angle": 3.534802571,
+    "angle": 74.20372648
+  },
+  {
+    "seconds": 141,
+    "RobotX": 1071,
+    "RobotY": 142,
+    "distance": 77,
+    "Slope": 2.361111111,
+    "tangent_angle": -0.662701661,
+    "angle": -33.53250246
+  },
+  {
+    "seconds": 142,
+    "RobotX": 1107,
+    "RobotY": 227,
+    "distance": 168.5941873,
+    "Slope": 0.662222222,
+    "tangent_angle": -0.360852473,
+    "angle": -19.84210387
+  },
+  {
+    "seconds": 143,
+    "RobotX": 882,
+    "RobotY": 78,
+    "distance": 71.77743378,
+    "Slope": 0.243243243,
+    "tangent_angle": -0.289531965,
+    "angle": -16.14741981
+  },
+  {
+    "seconds": 144,
+    "RobotX": 808,
+    "RobotY": 60,
+    "distance": 184.8269461,
+    "Slope": -0.043243243,
+    "tangent_angle": 0.070724294,
+    "angle": 4.045467478
+  },
+  {
+    "seconds": 145,
+    "RobotX": 623,
+    "RobotY": 68,
+    "distance": 72.9725976,
+    "Slope": 0.02739726,
+    "tangent_angle": 1.259911894,
+    "angle": 51.56074755
+  },
+  {
+    "seconds": 146,
+    "RobotX": 550,
+    "RobotY": 66,
+    "distance": 31.74901573,
+    "Slope": 1.333333333,
+    "tangent_angle": -0.698170732,
+    "angle": -34.92161788
+  },
+  {
+    "seconds": 147,
+    "RobotX": 514,
+    "RobotY": 18,
+    "distance": 430.6228048,
+    "Slope": 0.328947368,
+    "tangent_angle": 0.076284778,
+    "angle": 4.362346874
+  },
+  {
+    "seconds": 148,
+    "RobotX": 970,
+    "RobotY": 168,
+    "distance": 150.9801311,
+    "Slope": 0.415662651,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 149,
+    "RobotX": 804,
+    "RobotY": 99,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 150,
+    "RobotX": 804,
+    "RobotY": 99,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 151,
+    "RobotX": 804,
+    "RobotY": 99,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 152,
+    "RobotX": 804,
+    "RobotY": 99,
+    "distance": 361.4014388,
+    "Slope": 0.541860465,
+    "tangent_angle": -0.545637898,
+    "angle": -28.61855552
+  },
+  {
+    "seconds": 153,
+    "RobotX": 1234,
+    "RobotY": 332,
+    "distance": 342.9985423,
+    "Slope": -0.002915452,
+    "tangent_angle": 0.185553884,
+    "angle": 10.5119001
+  },
+  {
+    "seconds": 154,
+    "RobotX": 1577,
+    "RobotY": 331,
+    "distance": 371.649028,
+    "Slope": 0.182539683,
+    "tangent_angle": 0.085539212,
+    "angle": 4.88913446
+  },
+  {
+    "seconds": 155,
+    "RobotX": 1199,
+    "RobotY": 262,
+    "distance": 883.3028926,
+    "Slope": 0.272331155,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 156,
+    "RobotX": 281,
+    "RobotY": 12,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 157,
+    "RobotX": 281,
+    "RobotY": 12,
+    "distance": 310.3997423,
+    "Slope": 3.094339623,
+    "tangent_angle": 0.376585078,
+    "angle": 20.63562521
+  },
+  {
+    "seconds": 158,
+    "RobotX": 387,
+    "RobotY": 340,
+    "distance": 230.7379466,
+    "Slope": -21,
+    "tangent_angle": 1.913636364,
+    "angle": 62.40999243
+  },
+  {
+    "seconds": 159,
+    "RobotX": 398,
+    "RobotY": 109,
+    "distance": 36.33180425,
+    "Slope": -0.463414634,
+    "tangent_angle": -3.658025922,
+    "angle": -74.71053131
+  },
+  {
+    "seconds": 160,
+    "RobotX": 439,
+    "RobotY": 90,
+    "distance": 81.81075724,
+    "Slope": 5.928571429,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 161,
+    "RobotX": 425,
+    "RobotY": 7,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 162,
+    "RobotX": 425,
+    "RobotY": 7,
+    "distance": 336.071421,
+    "Slope": 0.074183976,
+    "tangent_angle": -0.099368265,
+    "angle": -5.674753501
+  },
+  {
+    "seconds": 163,
+    "RobotX": 762,
+    "RobotY": 32,
+    "distance": 39.98749805,
+    "Slope": -0.025,
+    "tangent_angle": 5.742857143,
+    "angle": 80.12216371
+  },
+  {
+    "seconds": 164,
+    "RobotX": 802,
+    "RobotY": 31,
+    "distance": 4.898979486,
+    "Slope": 5,
+    "tangent_angle": 1.652631579,
+    "angle": 58.82205464
+  },
+  {
+    "seconds": 165,
+    "RobotX": 801,
+    "RobotY": 26,
+    "distance": 276.9043156,
+    "Slope": -0.915942029,
+    "tangent_angle": 0.728847461,
+    "angle": 36.0863416
+  },
+  {
+    "seconds": 166,
+    "RobotX": 111,
+    "RobotY": 658,
+    "distance": 407.41134,
+    "Slope": -0.112195122,
+    "tangent_angle": -0.028443737,
+    "angle": -1.629266769
+  },
+  {
+    "seconds": 167,
+    "RobotX": 521,
+    "RobotY": 612,
+    "distance": 399.9587479,
+    "Slope": -0.141089109,
+    "tangent_angle": -4.732526882,
+    "angle": -78.06870325
+  },
+  {
+    "seconds": 168,
+    "RobotX": 117,
+    "RobotY": 669,
+    "distance": 43.89760814,
+    "Slope": -14.66666667,
+    "tangent_angle": 0.136785162,
+    "angle": 7.788875433
+  },
+  {
+    "seconds": 169,
+    "RobotX": 120,
+    "RobotY": 625,
+    "distance": 28.37252192,
+    "Slope": -4.833333333,
+    "tangent_angle": 1.91,
+    "angle": 62.36523492
+  },
+  {
+    "seconds": 170,
+    "RobotX": 114,
+    "RobotY": 654,
+    "distance": 33.54101966,
+    "Slope": -0.285714286,
+    "tangent_angle": 1.262672811,
+    "angle": 51.62180412
+  },
+  {
+    "seconds": 171,
+    "RobotX": 79,
+    "RobotY": 664,
+    "distance": 27.14774392,
+    "Slope": 0.717948718,
+    "tangent_angle": -0.86449825,
+    "angle": -40.84335714
+  },
+  {
+    "seconds": 172,
+    "RobotX": 118,
+    "RobotY": 692,
+    "distance": 187.2298053,
+    "Slope": -0.090425532,
+    "tangent_angle": -5.658508022,
+    "angle": -79.97788266
+  },
+  {
+    "seconds": 173,
+    "RobotX": 306,
+    "RobotY": 675,
+    "distance": 258.0639456,
+    "Slope": -11.77272727,
+    "tangent_angle": 0.580539359,
+    "angle": 30.13685178
+  },
+  {
+    "seconds": 174,
+    "RobotX": 328,
+    "RobotY": 416,
+    "distance": 21.42428529,
+    "Slope": -1.428571429,
+    "tangent_angle": 2.014830508,
+    "angle": 63.60389124
+  },
+  {
+    "seconds": 175,
+    "RobotX": 349,
+    "RobotY": 386,
+    "distance": 255.0352917,
+    "Slope": 0.151162791,
+    "tangent_angle": 0.328531742,
+    "angle": 18.18699337
+  },
+  {
+    "seconds": 176,
+    "RobotX": 91,
+    "RobotY": 347,
+    "distance": 90.64215355,
+    "Slope": 0.504761905,
+    "tangent_angle": 0.049072466,
+    "angle": 2.809391557
+  },
+  {
+    "seconds": 177,
+    "RobotX": 196,
+    "RobotY": 400,
+    "distance": 200.0124996,
+    "Slope": 0.567901235,
+    "tangent_angle": -1.278672986,
+    "angle": -51.97243141
+  },
+  {
+    "seconds": 178,
+    "RobotX": 439,
+    "RobotY": 538,
+    "distance": 185.9032006,
+    "Slope": -0.411764706,
+    "tangent_angle": 0.807329843,
+    "angle": 38.91497291
+  },
+  {
+    "seconds": 179,
+    "RobotX": 643,
+    "RobotY": 454,
+    "distance": 183.3439391,
+    "Slope": 0.296875,
+    "tangent_angle": -0.356110009,
+    "angle": -19.60132336
+  },
+  {
+    "seconds": 180,
+    "RobotX": 835,
+    "RobotY": 511,
+    "distance": 167.7587554,
+    "Slope": -0.053571429,
+    "tangent_angle": -0.155204461,
+    "angle": -8.822172539
+  },
+  {
+    "seconds": 181,
+    "RobotX": 667,
+    "RobotY": 520,
+    "distance": 18.57417562,
+    "Slope": -0.210526316,
+    "tangent_angle": -0.799909869,
+    "angle": -38.65665927
+  },
+  {
+    "seconds": 182,
+    "RobotX": 686,
+    "RobotY": 516,
+    "distance": 128.3744523,
+    "Slope": -1.215053763,
+    "tangent_angle": -0.934445506,
+    "angle": -43.05910323
+  },
+  {
+    "seconds": 183,
+    "RobotX": 872,
+    "RobotY": 290,
+    "distance": 126.747781,
+    "Slope": 15.875,
+    "tangent_angle": -1.806662146,
+    "angle": -61.03516854
+  },
+  {
+    "seconds": 184,
+    "RobotX": 864,
+    "RobotY": 163,
+    "distance": 152.3318745,
+    "Slope": 0.473988439,
+    "tangent_angle": -8.87094661,
+    "angle": -83.56833938
+  },
+  {
+    "seconds": 185,
+    "RobotX": 1037,
+    "RobotY": 245,
+    "distance": 94.95261976,
+    "Slope": -1.613333333,
+    "tangent_angle": -6.044534413,
+    "angle": -80.60614637
+  },
+  {
+    "seconds": 186,
+    "RobotX": 1112,
+    "RobotY": 124,
+    "distance": 11.61895004,
+    "Slope": 0.875,
+    "tangent_angle": -1.59127789,
+    "angle": -57.85368821
+  },
+  {
+    "seconds": 187,
+    "RobotX": 1136,
+    "RobotY": 145,
+    "distance": 159.3392607,
+    "Slope": -0.299401198,
+    "tangent_angle": 18.28063241,
+    "angle": 86.86888669
+  },
+  {
+    "seconds": 188,
+    "RobotX": 969,
+    "RobotY": 195,
+    "distance": 23.32380758,
+    "Slope": 2.777777778,
+    "tangent_angle": -1.126315789,
+    "angle": -48.39971416
+  },
+  {
+    "seconds": 189,
+    "RobotX": 960,
+    "RobotY": 170,
+    "distance": 9.16515139,
+    "Slope": 0.4,
+    "tangent_angle": 0.428571429,
+    "angle": 23.19859051
+  },
+  {
+    "seconds": 190,
+    "RobotX": 950,
+    "RobotY": 166,
+    "distance": 0,
+    "Slope": 1,
+    "tangent_angle": -0.066666667,
+    "angle": -3.814074834
+  },
+  {
+    "seconds": 191,
+    "RobotX": 955,
+    "RobotY": 171,
+    "distance": 7.745966692,
+    "Slope": 0.875,
+    "tangent_angle": -0.54853621,
+    "angle": -28.74636315
+  },
+  {
+    "seconds": 192,
+    "RobotX": 939,
+    "RobotY": 157,
+    "distance": 198.9748728,
+    "Slope": 0.220588235,
+    "tangent_angle": -3.596153846,
+    "angle": -74.46008763
+  },
+  {
+    "seconds": 193,
+    "RobotX": 1143,
+    "RobotY": 202,
+    "distance": 54.22176685,
+    "Slope": -1.882352941,
+    "tangent_angle": -3.833487512,
+    "angle": -75.37968885
+  },
+  {
+    "seconds": 194,
+    "RobotX": 1177,
+    "RobotY": 138,
+    "distance": 34.19064199,
+    "Slope": 0.91954023,
+    "tangent_angle": 0.277047787,
+    "angle": 15.4852744
+  },
+  {
+    "seconds": 195,
+    "RobotX": 1264,
+    "RobotY": 218,
+    "distance": 89.1908067,
+    "Slope": 1.605633803,
+    "tangent_angle": 0.074645669,
+    "angle": 4.2689647
+  },
+  {
+    "seconds": 196,
+    "RobotX": 1335,
+    "RobotY": 332,
+    "distance": 35.77708764,
+    "Slope": 1.909090909,
+    "tangent_angle": 0.947257384,
+    "angle": 43.44848932
+  },
+  {
+    "seconds": 197,
+    "RobotX": 1357,
+    "RobotY": 374,
+    "distance": 50.83306011,
+    "Slope": -3.533333333,
+    "tangent_angle": 0.338307976,
+    "angle": 18.69108826
+  },
+  {
+    "seconds": 198,
+    "RobotX": 1372,
+    "RobotY": 321,
+    "distance": 118.4271928,
+    "Slope": -1.455357143,
+    "tangent_angle": -52.02927928,
+    "angle": -88.89891371
+  },
+  {
+    "seconds": 199,
+    "RobotX": 1484,
+    "RobotY": 158,
+    "distance": 66.34003316,
+    "Slope": 0.715789474,
+    "tangent_angle": -1.937066209,
+    "angle": -62.69519866
+  },
+  {
+    "seconds": 200,
+    "RobotX": 1389,
+    "RobotY": 90,
+    "distance": 182.9972677,
+    "Slope": -0.511737089,
+    "tangent_angle": 0.822364901,
+    "angle": 39.43267933
+  },
+  {
+    "seconds": 201,
+    "RobotX": 1176,
+    "RobotY": 199,
+    "distance": 241.024895,
+    "Slope": 0.218623482,
+    "tangent_angle": -0.382249635,
+    "angle": -20.9193375
+  },
+  {
+    "seconds": 202,
+    "RobotX": 929,
+    "RobotY": 145,
+    "distance": 294.5827558,
+    "Slope": -0.151006711,
+    "tangent_angle": 0.318982431,
+    "angle": 17.69176919
+  },
+  {
+    "seconds": 203,
+    "RobotX": 631,
+    "RobotY": 190,
+    "distance": 153.9837654,
+    "Slope": 0.16025641,
+    "tangent_angle": 0.335398479,
+    "angle": 18.5413745
+  },
+  {
+    "seconds": 204,
+    "RobotX": 475,
+    "RobotY": 165,
+    "distance": 89.4427191,
+    "Slope": 0.523809524,
+    "tangent_angle": -1.387096774,
+    "angle": -54.21102654
+  },
+  {
+    "seconds": 205,
+    "RobotX": 580,
+    "RobotY": 220,
+    "distance": 10.39230485,
+    "Slope": -0.5,
+    "tangent_angle": 3,
+    "angle": 71.56505118
+  },
+  {
+    "seconds": 206,
+    "RobotX": 592,
+    "RobotY": 214,
+    "distance": 0,
+    "Slope": 1,
+    "tangent_angle": 28,
+    "angle": 87.95459151
+  },
+  {
+    "seconds": 207,
+    "RobotX": 594,
+    "RobotY": 216,
+    "distance": 10.58300524,
+    "Slope": -1.074074074,
+    "tangent_angle": -0.18712111,
+    "angle": -10.59868232
+  },
+  {
+    "seconds": 208,
+    "RobotX": 567,
+    "RobotY": 245,
+    "distance": 124.5672509,
+    "Slope": -1.578431373,
+    "tangent_angle": 5.532023911,
+    "angle": 79.75353916
+  },
+  {
+    "seconds": 209,
+    "RobotX": 669,
+    "RobotY": 84,
+    "distance": 175.4422982,
+    "Slope": 0.40625,
+    "tangent_angle": 0.595497458,
+    "angle": 30.77369097
+  },
+  {
+    "seconds": 210,
+    "RobotX": 861,
+    "RobotY": 162,
+    "distance": 24.18677324,
+    "Slope": 1.321428571,
+    "tangent_angle": -1.91308065,
+    "angle": -62.40316118
+  },
+  {
+    "seconds": 211,
+    "RobotX": 889,
+    "RobotY": 199,
+    "distance": 158.719879,
+    "Slope": -0.167701863,
+    "tangent_angle": 0.262614679,
+    "angle": 14.71445077
+  },
+  {
+    "seconds": 212,
+    "RobotX": 1050,
+    "RobotY": 172,
+    "distance": 219.089023,
+    "Slope": 0.090909091,
+    "tangent_angle": -0.155053704,
+    "angle": -8.813737795
+  },
+  {
+    "seconds": 213,
+    "RobotX": 830,
+    "RobotY": 152,
+    "distance": 331.3351777,
+    "Slope": -0.063253012,
+    "tangent_angle": -0.429326142,
+    "angle": -23.23511245
+  },
+  {
+    "seconds": 214,
+    "RobotX": 498,
+    "RobotY": 173,
+    "distance": 272.4995413,
+    "Slope": -0.506329114,
+    "tangent_angle": 2.831217163,
+    "angle": 70.54652574
+  },
+  {
+    "seconds": 215,
+    "RobotX": 182,
+    "RobotY": 333,
+    "distance": 33.09078422,
+    "Slope": 0.955357143,
+    "tangent_angle": -0.369185435,
+    "angle": -20.26341159
+  },
+  {
+    "seconds": 216,
+    "RobotX": 70,
+    "RobotY": 226,
+    "distance": 54.07402334,
+    "Slope": 0.433333333,
+    "tangent_angle": -6.630434783,
+    "angle": -81.4233096
+  },
+  {
+    "seconds": 217,
+    "RobotX": 10,
+    "RobotY": 200,
+    "distance": 6.244997998,
+    "Slope": -1.6,
+    "tangent_angle": -0.045023697,
+    "angle": -2.577926805
+  },
+  {
+    "seconds": 218,
+    "RobotX": 15,
+    "RobotY": 192,
+    "distance": 32.20248438,
+    "Slope": -1.772727273,
+    "tangent_angle": -0.126988481,
+    "angle": -7.237167507
+  },
+  {
+    "seconds": 219,
+    "RobotX": 37,
+    "RobotY": 153,
+    "distance": 69.39020104,
+    "Slope": -2.451612903,
+    "tangent_angle": -1.018472135,
+    "angle": -45.52433017
+  },
+  {
+    "seconds": 220,
+    "RobotX": 68,
+    "RobotY": 77,
+    "distance": 46.01086828,
+    "Slope": 2.318181818,
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 221,
+    "RobotX": 90,
+    "RobotY": 128,
+    "distance": 0,
+    "Slope": "#DIV/0!",
+    "tangent_angle": "#DIV/0!",
+    "angle": "#DIV/0!"
+  },
+  {
+    "seconds": 222,
+    "RobotX": 90,
+    "RobotY": 128,
+    "distance": 53.6749476,
+    "Slope": 4.583333333,
+    "tangent_angle": -1.860824742,
+    "angle": -61.74658828
+  },
+  {
+    "seconds": 223,
+    "RobotX": 102,
+    "RobotY": 183,
+    "distance": 26.83281573,
+    "Slope": 0.285714286,
+    "tangent_angle": -1.093333333,
+    "angle": -47.55289815
+  },
+  {
+    "seconds": 224,
+    "RobotX": 74,
+    "RobotY": 175,
+    "distance": 40.98780306,
+    "Slope": -0.615384615,
+    "tangent_angle": -1.273326015,
+    "angle": -51.8558641
+  },
+  {
+    "seconds": 225,
+    "RobotX": 22,
+    "RobotY": 207,
+    "distance": 95.36770942,
+    "Slope": -8.727272727,
+    "tangent_angle": -0.611394892,
+    "angle": -31.44140246
+  },
+  {
+    "seconds": 226,
+    "RobotX": 33,
+    "RobotY": 111,
+    "distance": 74.39758061,
+    "Slope": 2.153846154,
+    "tangent_angle": -0.045536249,
+    "angle": -2.607233816
+  },
+  {
+    "seconds": 227,
+    "RobotX": 72,
+    "RobotY": 195,
+    "distance": 40.9756025,
+    "Slope": 1.92,
+    "tangent_angle": -0.317374562,
+    "angle": -17.60811414
+  },
+  {
+    "seconds": 228,
+    "RobotX": 97,
+    "RobotY": 243,
+    "distance": 21.84032967,
+    "Slope": 0.9958159,
+    "tangent_angle": 0.915174968,
+    "angle": 42.46396956
+  },
+  {
+    "seconds": 229,
+    "RobotX": 336,
+    "RobotY": 481,
+    "distance": 193.7911247,
+    "Slope": 21.55555556,
+    "tangent_angle": -0.737182491,
+    "angle": -36.39698974
+  },
+  {
+    "seconds": 230,
+    "RobotX": 345,
+    "RobotY": 675,
+    "distance": 30.98386677,
+    "Slope": 1.23255814,
+    "tangent_angle": 0.728662121,
+    "angle": 36.07940586
+  },
+  {
+    "seconds": 231,
+    "RobotX": 302,
+    "RobotY": 622,
+    "distance": 76.89603371,
+    "Slope": 19.25,
+    "tangent_angle": 2.265714019,
+    "angle": 66.18516044
+  },
+  {
+    "seconds": 232,
+    "RobotX": 298,
+    "RobotY": 545,
+    "distance": 264.9981132,
+    "Slope": -0.504885993,
+    "tangent_angle": 1.132676543,
+    "angle": 48.55985616
+  },
+  {
+    "seconds": 233,
+    "RobotX": 605,
+    "RobotY": 390,
+    "distance": 300.7041736,
+    "Slope": 0.399390244,
+    "tangent_angle": -0.772367004,
+    "angle": -37.68131367
+  },
+  {
+    "seconds": 234,
+    "RobotX": 933,
+    "RobotY": 521,
+    "distance": 205.121915,
+    "Slope": -0.285046729,
+    "tangent_angle": -3.759319412,
+    "angle": -75.10395058
+  },
+  {
+    "seconds": 235,
+    "RobotX": 719,
+    "RobotY": 582,
+    "distance": 225.964599,
+    "Slope": 56.5,
+    "tangent_angle": 1.138113237,
+    "angle": 48.69593456
+  },
+  {
+    "seconds": 236,
+    "RobotX": 715,
+    "RobotY": 356,
+    "distance": 106.2685278,
+    "Slope": -0.910505837,
+    "tangent_angle": 1.140480797,
+    "angle": 48.75496476
+  },
+  {
+    "seconds": 237,
+    "RobotX": 972,
+    "RobotY": 122,
+    "distance": 387.5099999,
+    "Slope": 0.112820513,
+    "tangent_angle": 0.201728884,
+    "angle": 11.40514856
+  },
+  {
+    "seconds": 238,
+    "RobotX": 1362,
+    "RobotY": 166,
+    "distance": 302.9702956,
+    "Slope": 0.321875,
+    "tangent_angle": -0.140946092,
+    "angle": -8.022768523
+  },
+  {
+    "seconds": 239,
+    "RobotX": 1682,
+    "RobotY": 269,
+    "distance": 51.21523211,
+    "Slope": 0.173076923,
+    "tangent_angle": 0.942708333,
+    "angle": 43.31080172
+  },
+  {
+    "seconds": 240,
+    "RobotX": 1734,
+    "RobotY": 278,
+    "distance": 42.33202098,
+    "Slope": 1.333333333,
+    "tangent_angle": -1.031788975,
+    "angle": -45.89636549
+  },
+  {
+    "seconds": 241,
+    "RobotX": 1686,
+    "RobotY": 214,
+    "distance": 1672.363597,
+    "Slope": 0.126927639,
+    "tangent_angle": -0.126927639,
+    "angle": -7.233736863
+  }
+]
