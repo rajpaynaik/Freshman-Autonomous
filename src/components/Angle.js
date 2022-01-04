@@ -9,7 +9,7 @@ import {
   LabelList,
   ResponsiveContainer,
 } from "recharts";
-import * as data from "./data/Angle.json";
+import * as data from "../data/Angle.json";
 
 function Angleplot() {
   return (
