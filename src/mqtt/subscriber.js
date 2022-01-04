@@ -1,13 +1,17 @@
 const mqtt = require("async-mqtt");
 var fs = require("fs");
-var connectUrl = `mqtt://mqtt.eclipseprojects.io:1883`;
+// var connectUrl = `mqtt.eclipseprojects.io:1883`;
+var connectUrl = `mqtt://broker.emqx.io:1883`;
 
 // Connecting with the publisher
 const client = mqtt.connect(connectUrl, {
   clean: true,
-  connectTimeout: 4000,
-  username: "emqx",
-  password: "public",
+  connectTimeout: 1000,
+  // username: "emqx",
+  // password: "public",
+  // clientId: "emqx_test",
+  username: "emqx_test",
+  password: "emqx_test",
   reconnectPeriod: 1000,
 });
 
