@@ -10,7 +10,7 @@ import {
   ResponsiveContainer,
   ReferenceDot,
 } from "recharts";
-import * as data from "./data/Robot.json";
+import * as data from "../src/mqtt/robot_data.json";
 
 const CustomReferenceDot = (props) => {
   return (
