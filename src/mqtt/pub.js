@@ -19,9 +19,9 @@ const client = mqtt.connect(connectUrl, {
 });
 const topic = "RajPaynaik";
 client.on("connect", function () {
-  setInterval(function () {  
-    let x = Math.random() * 16,
-      y = Math.random() * 24;
+  setInterval(function () {
+    let x = Math.random() * 50,
+      y = Math.random() * 50;
     let roboString = [x.toString(), y.toString()];
 
     // let roboString = x.toString();
