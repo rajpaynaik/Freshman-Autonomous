@@ -9,7 +9,7 @@ import {
   LabelList,
   ResponsiveContainer,
 } from "recharts";
-import * as data from "./data/Distance.json";
+import * as data from "../data/Distance.json";
 
 function Cartesianplot() {
   return (

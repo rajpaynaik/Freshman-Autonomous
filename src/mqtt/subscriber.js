@@ -1,23 +1,28 @@
 const mqtt = require("async-mqtt");
 var fs = require("fs");
-// var connectUrl = `mqtt.eclipseprojects.io:1883`;
-var connectUrl = `mqtt://broker.emqx.io:1883`;
+// let connectUrl = `mqtt.eclipseprojects.io:1883`; //previos connectUrl
+//let connectUrl = `mqtt://broker.emqx.io:1883`; // working connectUrl
+let connectUrl = `mqtt://155.246.223.11:1883`; // ip address connectUrl
 
 // Connecting with the publisher
 const client = mqtt.connect(connectUrl, {
   clean: true,
-  connectTimeout: 1000,
-  // username: "emqx",
-  // password: "public",
-  // clientId: "emqx_test",
-  username: "emqx_test",
-  password: "emqx_test",
+  connectTimeout: 4000,
+  // username: "emqx", //previos connectUrl
+  // password: "public", //previos connectUrl
+
+  // clientId: "emqx_test", // working connectUrl
+  // username: "emqx_test", // working connectUrl
+  // password: "emqx_test", // working connectUrl
+
+  username:"", // ip address connectUrl
+  password:"", // ip address connectUrl
   reconnectPeriod: 1000,
 });
-
+// 155.246.223.11
 client.on("connect", function () {
   // louislidar3
-  client.subscribe("RajPaynaik", () => {
+  client.subscribe("louislidar3", () => {
     console.log("Client has subscribed successfully.");
   });
 });
