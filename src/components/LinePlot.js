@@ -12,6 +12,8 @@ import {
 } from "recharts";
 import * as data from "../mqtt/robot_data.json";
 
+console.log(data);
+
 const CustomReferenceDot = (props) => {
   return (
     <circle cx={props.cx} r="10" cy={props.cy} fill="gold">
