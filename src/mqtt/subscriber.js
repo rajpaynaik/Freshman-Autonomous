@@ -32,13 +32,13 @@ client.on("connect", function () {
 
 // Receiving the message and converting it into json format
 client.on("message", function (topic, message) {
-  
+  console.log(message.toString())
 let coordinates = message.toString();
 let coordinatesArr = coordinates.split(',')
   console.log("Connected");
   let robotData_json = {
-    Robot_X_Position: coordinatesArr[0].toString(),
-    Robot_Y_Position: coordinatesArr[1].toString(),
+    Robot_X_Position: coordinatesArr[0],
+    Robot_Y_Position: coordinatesArr[1],
   };
   console.log(JSON.stringify(robotData_json));
 

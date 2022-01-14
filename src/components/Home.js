@@ -7,6 +7,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Nav from "react-bootstrap/Nav";
 import { Navbar, Container } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 function Home() {
   return (
@@ -19,8 +20,11 @@ function Home() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="#home">Home</Nav.Link>
-              <Nav.Link href="#link">Login</Nav.Link>
+              <Nav.Link>Logout</Nav.Link>
+              {/* <Nav.Link href="">Profile Page</Nav.Link> */}
+              <Link className="profilepage" to={"/profilepage"}>
+					Profile Page
+			</Link>
             </Nav>
           </Navbar.Collapse>
           <Tab.Content>
